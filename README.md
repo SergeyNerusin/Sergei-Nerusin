@@ -1,4 +1,14 @@
 ### Hi there 👋
+### About myself:
+### I am Sergey, beginner front-end developer.
+
+### If You want contact Me: [Telegramm](https://t.me/nerusin_sergey) :slightly_smiling_face:
+
+### My skills:
+
+
+
+
 
 <!--
 **SergeyNerusin/SergeyNerusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
