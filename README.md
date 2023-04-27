@@ -1,4 +1,8 @@
 ## Hi there 👋 
+<picture>
+   <img alt="Picture Frontend development" src="./assets/front-end.png">
+</picture>
+
 ### About myself:
 #### I am Sergey, beginner front-end developer.
 
