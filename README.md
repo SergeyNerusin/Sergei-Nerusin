@@ -1,13 +1,21 @@
-### Hi there 👋
+## Hi there 👋 
 ### About myself:
-### I am Sergey, beginner front-end developer.
+#### I am Sergey, beginner front-end developer.
 
-### If You want contact Me: [Telegramm](https://t.me/nerusin_sergey) :slightly_smiling_face:
+#### If you want contact with me: [Telegramm](https://t.me/nerusin_sergey)
 
 ### My skills:
-
-
-
+<div>
+    <img alt="Show sing HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50">
+    <img alt="Show sing CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50">
+    <img alt="Show sing JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50">
+    <img alt="Show sing Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50">
+    <img alt="Show sing TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50">
+    <img alt="Show sing React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50">
+    <img alt="Show sing React" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50">
+    <img alt="Show sing Jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50">
+    <img alt="Show sing Cypress" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round-flat.svg" width="50">
+</div>
 
 
 <!--
