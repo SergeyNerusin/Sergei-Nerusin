@@ -6,7 +6,7 @@
 ### About myself:
 #### I am Sergey, beginner front-end developer.
 
-#### If you want contact with me: [Telegramm](https://t.me/nerusin_sergey)
+#### If you want contact with me: [Telegramm]()
 
 ### My skills:
 <div>
