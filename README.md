@@ -4,9 +4,9 @@
 </picture>
 
 ### About myself:
-#### I am Sergey, beginner front-end developer.
-<!--
-#### If you want contact with me: [Telegramm](https://t.me/nerusin_sergey)<
+#### I am Sergei, beginner front-end developer.
+
+#### If you want contact with me: [Telegramm](https://t.me/nerusin_sergei)
 
 ### My skills:
 <div>
@@ -22,8 +22,8 @@
 </div>
 
 
-
-**SergeyNerusin/SergeyNerusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**SergeyNerusin/Sergei-Nerusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
