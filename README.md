@@ -4,9 +4,10 @@
 </picture>
 
 ### About myself:
-#### I am Sergei, beginner front-end developer.
+#### I am Sergei, junior web developer.
 
 #### If you want contact with me: [Telegramm](https://t.me/nerusin_sergei)
+#### e-mail: s.nerusin@yandex.ru
 
 ### My skills:
 <div>
